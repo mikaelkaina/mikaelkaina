@@ -120,7 +120,7 @@ colaborando com equipes dinâmicas na entrega de software de alta qualidade.
 <br/>
 <br/>
 
-# 📊 GitHub Stats:
+# 📊 Linguagens e Tecnologias
 ![](https://github-readme-stats.vercel.app/api?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikaelkaina&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

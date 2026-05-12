@@ -117,7 +117,10 @@ colaborando com equipes dinâmicas na entrega de software de alta qualidade.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-# 📊 Github Status
+<br/>
+<br/>
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikaelkaina&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

@@ -117,8 +117,7 @@ colaborando com equipes dinâmicas na entrega de software de alta qualidade.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br/>
-<br/>
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>

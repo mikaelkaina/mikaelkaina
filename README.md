@@ -120,26 +120,6 @@ colaborando com equipes dinâmicas na entrega de software de alta qualidade.
 <br/>
 <br/>
 
-
-### 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mikaelkaina&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaelkaina&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mikaelkaina&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mikaelkaina&theme=dark&hide_border=true)<br/>
